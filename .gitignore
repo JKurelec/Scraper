@@ -1,0 +1,93 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+*.whl
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+cover/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# PyCharm and JetBrains specific files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/vcs.xml
+.idea/**/modules.xml
+.idea/**/usage.statistics.xml
+.idea/**/assetWizardSettings.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/jsLinters
+.idea/**/taskDescriptions.xml
+.idea/**/tasks
+.idea/**/editor.xml
+.idea/**/codeStyles
+.idea/**/scopes
+.idea/**/sqldialects
+.idea/**/git.xml
+.idea/**/server.xml
+.idea/**/runConfigurations
+.idea/**/webServers
+
+# Local .env files
+.env
+.env.*
